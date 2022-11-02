@@ -4,4 +4,4 @@ Link to Tableau Public: [Global Superstore Sales Report](https://public.tableau.
 
 ### Preview
 
-![superstore]("GlobalSuperstoreReport.png")
+![superstore](GlobalSuperstoreReport.png)
