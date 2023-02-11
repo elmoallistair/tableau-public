@@ -1,7 +1,3 @@
-## Web Traffic Market Share
+## Link to Public Tableau: [Web Traffic Market Share](https://public.tableau.com/app/profile/elmoallistair/viz/WebTrafficMarketShare/Dashboard)
 
-Link to Tableau Public: [Web Traffic Market Share](hhttps://public.tableau.com/app/profile/elmoallistair/viz/WebTrafficMarketShare/Dashboard)
-
-### Preview
-
-![preview](Web Traffic Market Share.png)
+![preview](Web_Traffic_Market_Share.png)
